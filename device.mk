@@ -17,3 +17,6 @@ PRODUCT_COPY_FILES += \
 
 # Inherit proprietary files
 $(call inherit-product, vendor/xiaomi/lmi/lmi-vendor.mk)
+
+# Floko specifics
+TARGET_HAS_FOD := true
