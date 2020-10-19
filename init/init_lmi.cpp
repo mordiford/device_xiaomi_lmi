@@ -62,13 +62,13 @@ constexpr const char *DEVICES[] = {
 };
 
 constexpr const char *BUILD_DESCRIPTION[] = {
-    "sunfish-user 11 RP1A.201005.006 6828489 release-keys",
-    "sunfish-user 11 RP1A.201005.006 6828489 release-keys",
+    "lmi-user 10 QKQ1.191117.002 V12.0.8.0.QJKCNXM release-keys",
+    "lmi-user 10 QKQ1.191117.002 V12.0.3.0.QJKMIXM release-keys",
 };
 
 constexpr const char *BUILD_FINGERPRINT[] = {
-    "google/sunfish/sunfish:11/RP1A.201005.006/6828489:user/release-keys",
-    "google/sunfish/sunfish:11/RP1A.201005.006/6828489:user/release-keys",
+    "Redmi/lmi/lmi:10/QKQ1.191117.002/V12.0.8.0.QJKCNXM:user/release-keys",
+    "Redmi/lmi/lmi:10/QKQ1.191117.002/V12.0.3.0.QJKMIXM:user/release-keys",
 };
 
 constexpr const char *CLIENT_ID[] = {

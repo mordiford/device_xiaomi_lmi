@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_lmi.mk
+    $(LOCAL_DIR)/lineage_lmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_lmi-user \
-    potato_lmi-userdebug \
-    potato_lmi-eng
+    lineage_lmi-user \
+    lineage_lmi-userdebug \
+    lineage_lmi-eng
