@@ -18,5 +18,7 @@ PRODUCT_COPY_FILES += \
 # Inherit proprietary files
 $(call inherit-product, vendor/xiaomi/lmi/lmi-vendor.mk)
 
-# Floko specifics
+# This device has FOD
 TARGET_HAS_FOD := true
+# This device has strange FOD position
+TARGET_HAS_FOD_OVERLAY := true
