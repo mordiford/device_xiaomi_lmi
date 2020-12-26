@@ -65,13 +65,13 @@ constexpr const char *DEVICES[] = {
 };
 
 constexpr const char *BUILD_DESCRIPTION[] = {
-    "redfin-user 11 RQ2A.210305.006 7119741 release-keys",
-    "redfin-user 11 RQ2A.210305.006 7119741 release-keys",
+    "lmi-user 10 QKQ1.191117.002 V12.0.4.0.QJKMIXM release-keys",
+    "lmi-user 10 QKQ1.191117.002 V12.0.4.0.QJKMIXM release-keys",
 };
 
 constexpr const char *BUILD_FINGERPRINT[] = {
-    "google/redfin/redfin:11/RQ2A.210305.006/7119741:user/release-keys",
-    "google/redfin/redfin:11/RQ2A.210305.006/7119741:user/release-keys",
+    "Redmi/lmi/lmi:10/QKQ1.191117.002/V12.0.4.0.QJKMIXM:user/release-keys",
+    "POCO/lmi/lmi:10/QKQ1.191117.002/V12.0.4.0.QJKMIXM:user/release-keys",
 };
 
 constexpr const char *CLIENT_ID[] = {
