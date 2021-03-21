@@ -203,4 +203,4 @@ endif
 BOARD_VNDK_VERSION := current
 
 # Inherit from the proprietary version
--include vendor/xiaomi/lmi/BoardConfigVendor.mk
+include vendor/xiaomi/lmi/BoardConfigVendor.mk
