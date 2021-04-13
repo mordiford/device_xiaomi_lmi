@@ -364,4 +364,17 @@
     <!-- Control whether the always on display mode is enabled by default. This value will be used
          during initialization when the setting is still null. -->
     <bool name="config_dozeAlwaysOnEnabled">false</bool>
+
+    <!-- Whether to show a custom view for FOD -->
+    <bool name="config_needCustomFODView">true</bool>
+
+    <!-- Default fod pressed color -->
+    <integer name="config_fod_pressed_color">0</integer>
+
+    <!-- Screen off FOD -->
+    <bool name="config_supportScreenOffFod">true</bool>
+
+    <!-- Flag specifying whether pocked mode is available on device -->
+    <bool name="config_pocketModeSupported">true</bool>
+
 </resources>
