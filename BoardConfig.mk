@@ -26,8 +26,5 @@ SOONG_CONFIG_XIAOMI_KONA_FOD_SIZE = 202
 # Kernel
 TARGET_KERNEL_CONFIG := vendor/lmi_defconfig
 
-# Properties
-TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
-
 # inherit from the proprietary version
 include vendor/xiaomi/lmi/BoardConfigVendor.mk
